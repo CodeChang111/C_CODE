@@ -1,11 +1,11 @@
-// #include <stdio.h>
-// int main()
-// {
-//     int arr[] = {1,2,(3,4),5};
-//     printf("%d\n", sizeof(arr));
-//     printf("%d\n",arr[4]);
-//     return 0;
-// }
+#include <stdio.h>
+int main()
+{
+    int arr[] = {1,2,(3,4),5};
+    printf("%d\n", sizeof(arr));
+    printf("%d\n",arr[4]);
+    return 0;
+}
 
 
  // #include <stdio.h>
@@ -74,4 +74,4 @@
 //     }
 //     return 0;
 // }
-22222
+//
